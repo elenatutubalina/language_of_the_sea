@@ -8,3 +8,4 @@
 * В тетрадке project.ipynb содержится код и результаты работы
 
 Также результаты можно увидеть по ссылке: https://elenatutubalina.github.io/language_of_the_sea/
+(сделано с помощью quarto)
